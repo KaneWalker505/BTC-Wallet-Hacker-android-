@@ -15,3 +15,8 @@ BTC Wallet Hacker in termux for android, Generates BTC wallets stores priv/pub k
 
 
 3: run btchack (./btchack)
+
+
+## EXAMPLE SCREEN
+
+![Test Image 4](https://raw.githubusercontent.com/KaneWalker505/BTC-Wallet-Hacker-android-/refs/heads/main/Screenshot_20251214_202904_Termux.jpg)
