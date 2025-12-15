@@ -8,9 +8,13 @@ BTC Wallet Hacker in termux for android, Generates BTC wallets stores priv/pub k
 storing as such
 
 privatekey:#####
+
 publickey:#####
+
 address:#####
+
 value:##
+
 
 ## INSTALL STEPS
 
