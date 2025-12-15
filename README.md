@@ -4,6 +4,8 @@ BTC Wallet Hacker in termux for android, Generates BTC wallets stores priv/pub k
 
 ## NO API REQUIRED
 
+(will write to hacked.txt when a wallet with a value above 0 is found)
+
 
 ## INSTALL STEPS
 
